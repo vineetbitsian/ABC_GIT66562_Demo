@@ -8,5 +8,8 @@ function factorial($n)
     return ($n * factorial ($n -1));    
 }    
     
-echo factorial(5);    
+echo factorial(5); 
+#ADDING MORE LINE FOR TESTING
+
+echo "factorical is working fine";
 ?>
